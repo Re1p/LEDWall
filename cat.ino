@@ -86,10 +86,10 @@ void setup() {
                         setpixelxy (11,5, 64, 80, 94);
                          setpixelxy (11,2, 64, 80, 94);
                           setpixelxy (11,1, 64, 80, 94);
-                                setpixelxy (10,6, 64, 80, 94); //Schwanz
+                                setpixelxy (10,6, 64, 80, 94); //tail
                             setpixelxy (10,5, 64, 80, 94);
                              setpixelxy (10,2, 64, 80, 94);
-                                 setpixelxy (9,7, 64, 80, 94);//Schwanz
+                                 setpixelxy (9,7, 64, 80, 94);//tail
                                setpixelxy (9,5, 64, 80, 94);
                                 setpixelxy (9,4, 64, 80, 94);
                                  setpixelxy (9,3, 64, 80, 94);
